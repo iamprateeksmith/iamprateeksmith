@@ -1,9 +1,10 @@
 
 <h1 align="center"> Hi There 👋 </h1>
 
-**iamprateeksmith/iamprateeksmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I am PRATEEK SMITH PATRA 😃
+* Currently I am a third year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 - (2018-2022)
 
-Here are some ideas to get you started:
+Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :
 
 - 🔭 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP
 - 🌱 I’m currently learning COMPUTER SCIENCE 
