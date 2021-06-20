@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hi There 👋 </h1>
+<h1 align="center"> Hi Everyone 👋 </h1>
 
 * I am PRATEEK SMITH PATRA 😃
 * Currently I am a third year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 - (2018-2022)
