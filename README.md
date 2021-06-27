@@ -17,15 +17,15 @@
 
 
 <p align="center">
-Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :
+Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :<br>
   <em>
-    🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) <br>
-    <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br>
-    <em>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer</em><br>
+    🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) <br><br>
+    <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br><br>
+    <p>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer</p><br><br>
     <em>👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION & DEEP LEARNING AUTOMATION | DEVOPS TOOLS </em>
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>" A ray of sunlight in dark rooms, ignite hope and leaves "</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 
