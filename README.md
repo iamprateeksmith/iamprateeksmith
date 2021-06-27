@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200"/>
+  <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200", width="90%"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra</h1>
@@ -18,13 +18,21 @@
 
 <p align="center">
 Here are something that 📖 About me and my skill set that gives me recognition as a CSE student (FRESHER) :<br><br>
-  <em>
-    🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) </em><br><br>
-    <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br><br>
-    <p>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer</p><br><br>
-    <em>👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION & DEEP LEARNING AUTOMATION | DEVOPS TOOLS </em>
-  </em> 
-  <br>
+  <em> 🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) 
+  </em><br><br>
+  
+  
+  <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br><br>
+  
+
+<p>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer
+</p><br><br>
+
+
+<em>👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION & DEEP LEARNING AUTOMATION | DEVOPS TOOLS </em>
+   
+  <br><br>
+  
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><p>A ray of sunlight in dark rooms, ignite hope and leaves</p></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
