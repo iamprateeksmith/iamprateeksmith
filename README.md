@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200", width="90%"/>
+  <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200", width="100%"/>
 </p>
 <hr>
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
 
-<h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer 🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
+<h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer <br>🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
