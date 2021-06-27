@@ -17,22 +17,15 @@
 
 
 <p align="center">
+Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :
   <em>
-    Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 - (2018-2022) <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) <br>
+    <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br>
+    <em>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer</em><br>
+    <em>👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION & DEEP LEARNING AUTOMATION | DEVOPS TOOLS </em>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 
-
-<hr>
-Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :
-
-- 🔭 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP
-- 🌱 I’m currently learning COMPUTER SCIENCE 
-- 👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION AUTOMATION
