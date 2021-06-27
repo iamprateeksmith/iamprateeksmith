@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra</h1>
