@@ -17,7 +17,7 @@
 
 
 <p align="center">
-Here are something that describes about me and my skill set that gives me recognition as a CSE student (FRESHER) :<br>
+Here are something that 📖 About me and my skill set that gives me recognition as a CSE student (FRESHER) :<br>
   <em>
     🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) <br><br>
     <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br><br>
