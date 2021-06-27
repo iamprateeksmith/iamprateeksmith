@@ -7,13 +7,13 @@
 <h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer <br>🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prateek-smith-patra-76a3031b5/" target="blank"><img align="center" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-smith-patra-76a3031b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
   
   
-<a href="https://leetcode.com/prateek_smith/" target="blank"><img align="center" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://leetcode.com/prateek_smith/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
   
   
- <a href = "mailto: iamprateeksmith@gmail.com"><img align="center" color="blue" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "mailto: iamprateeksmith@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
 </p>
