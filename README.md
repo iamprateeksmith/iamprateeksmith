@@ -49,3 +49,6 @@ Here are something that 📖 About me and my skill set that gives me recognition
 </p>
 
 
+<p style="color :red;">  
+This page helps you to understand how to change the color of a text.  
+</p>  
