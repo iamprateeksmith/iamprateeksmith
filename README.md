@@ -1,8 +1,21 @@
+<style>  
+Body  
+{  
+color:orange;  
+}  
+p  
+{  
+color:green;  
+}  
+</style>  
+
+
+
 <p align="center">
   <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200", width="90%"/>
 </p>
 <hr>
-<h1 align="center", style="color :red; ">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra</h1>
+<h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
 
 <h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer 🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
 <p align="center">
@@ -17,7 +30,7 @@
 
 
 
-<p align="center">
+<p align="center", style="color :red;">
 Here are something that 📖 About me and my skill set that gives me recognition as a CSE student (FRESHER) :<br><br>
   <em> 🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) 
   </em><br><br>
