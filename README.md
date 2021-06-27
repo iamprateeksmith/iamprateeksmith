@@ -1,16 +1,3 @@
-<style>  
-Body  
-{  
-color:orange;  
-}  
-p  
-{  
-color:green;  
-}  
-</style>  
-
-
-
 <p align="center">
   <img src="https://media-exp3.licdn.com/dms/image/C4E16AQHFKI7PGOTu4Q/profile-displaybackgroundimage-shrink_350_1400/0/1623044885169?e=1630540800&v=beta&t=LjJtJKCUUvm7qfsymcHx2cqfnfLNmCu2dUl_e9lBKXg" height="200", width="90%"/>
 </p>
@@ -30,7 +17,7 @@ color:green;
 
 
 
-<p align="center", style="color :red;">
+<p align="center">
 Here are something that 📖 About me and my skill set that gives me recognition as a CSE student (FRESHER) :<br><br>
   <em> 🎓 Currently I am a B.Tech 3rd year student from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) 
   </em><br><br>
@@ -48,7 +35,4 @@ Here are something that 📖 About me and my skill set that gives me recognition
   <br><br>
 </p>
 
-
-<p style="color :red;">  
-This page helps you to understand how to change the color of a text.  
-</p>  
+ 
