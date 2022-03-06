@@ -31,8 +31,6 @@ Here are something that 📖 About me and my skill set that gives me recognition
   <em>💻 I’m currently working on FLUTTER | DEVOPS | DEEP LEARNING USING COMPUTER VISION & ADVANCE NLP | MACHINE LEARNING | TABLEAU DESKTOP</em><br><br>
   
   
-  https://prateeksmith99.github.io/
-  
 
 <p>🌱 I’m currently learning [DevOps - Linux Sys Admin,Docker,Kubernetes,Chef,Ansible,Terraform,OpenShift,ShellScripts,Puppet,Git,GitHub,Ci&CD Pipeline] for software developer
 </p><br><br>
@@ -57,3 +55,4 @@ Here are something that describes about me and my skill set that gives me recogn
 - 👯 I’m looking to collaborate on OPEN SOURCE COMPUTER VISION AUTOMATION -->
 
  
+ https://prateeksmith99.github.io/
