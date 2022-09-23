@@ -2,7 +2,7 @@
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
 <!-- <p align="center">🔥Cloud Data Engineer @Cognizant</p> -->
 
-<p align="center">
+<p>
 
   <!-- <a href="https://www.linkedin.com/in/prateek-smith-patra-76a3031b5/" target="blank"><img align="center" src="" alt="aksia" height="30" width="40" /></a>
   
@@ -21,7 +21,7 @@
   <em> 🎓 B.Tech Graduated from SIT, Bhubaneswar as CSE -(2018-2022) </em><br>
   
   <em>💻 IT Experience in Cloud Data Engineer | AWS,Azure,GCP | Fullstack Development (Flutter,React,NodeJS,ExpressJS & MongoDB)</em><br><br>
-</p> <br>
+</p> <br><br><br>
 <hr>
 <p align="center">
   <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGp0_c2rZYDBg/profile-displaybackgroundimage-shrink_350_1400/0/1654014649119?e=1669248000&v=beta&t=H4DMTdtAaoA9X0jNm8bcXKDzlpSCG3UXLdJXJ8-Nah4" height="225", width="100%"/>
