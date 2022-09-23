@@ -23,8 +23,8 @@
   <em>💻 IT Experience in Cloud Data Engineer | AWS,Azure,GCP | Fullstack Development (Flutter,React,NodeJS,ExpressJS & MongoDB)</em><br><br>
 <br><br><br>
 <hr>
-
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGp0_c2rZYDBg/profile-displaybackgroundimage-shrink_350_1400/0/1654014649119?e=1669248000&v=beta&t=H4DMTdtAaoA9X0jNm8bcXKDzlpSCG3UXLdJXJ8-Nah4" height="225", width="100%"/>
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQGp0_c2rZYDBg/profile-displaybackgroundimage-shrink_350_1400/0/1654014649119?e=1669248000&v=beta&t=H4DMTdtAaoA9X0jNm8bcXKDzlpSCG3UXLdJXJ8-Nah4" height="225", width="100%"/></p>
 
 
 
