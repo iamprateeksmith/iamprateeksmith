@@ -3,9 +3,9 @@
 </p>
 <hr>
 
-<img align="right" width="500" height="500" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/git-transparent-bg.png?raw=true">
-<h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
-<h4 align="center">🔥Cloud Data Engineer🔥Data Scientist🔥Backend Developer</h4>
+<img align="right" width="400" height="400" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/git-transparent-bg.png?raw=true">
+<h3 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h3>
+<p align="center">🔥Cloud Data Engineer🔥Data Scientist🔥Backend Developer</p>
 
 <p align="center">
 
