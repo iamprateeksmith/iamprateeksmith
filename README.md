@@ -5,7 +5,7 @@
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
 <img align="right" width="500" height="500" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/git-transparent-bg.png?raw=true">
 
-<h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer <br>🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
+<h6 align="center">🔥Cloud Data Engineer<br>🔥Data Scientist <br>🔥Backend Developer</h6>
 
 <p align="center">
 
@@ -28,8 +28,6 @@
   
   
   <em>💻 IT Experience in Cloud Data Engineer | AWS,Azure,GCP | Fullstack Development (Flutter,React,NodeJS,ExpressJS & MongoDB)</em><br><br>
-  
-  <br><br>
 </p> 
 
 
