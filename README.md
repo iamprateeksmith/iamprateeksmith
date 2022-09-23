@@ -3,9 +3,9 @@
 </p>
 <hr>
 
-<img align="right" width="400" height="300" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/git-transparent-bg.png?raw=true">
+<img align="right" width="400" height="350" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/git-transparent-bg.png?raw=true">
 <h2 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h2>
-<p align="center">🔥Cloud Data Engineer @Cognizant</p>
+<p align="left">🔥Cloud Data Engineer @Cognizant</p>
 
 <p align="center">
 
@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <em> 🎓 B.Tech Graduated from Silicon Institute Of Technology(SIT), Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) 
+  <em> 🎓 B.Tech Graduated from SIT, Bhubaneswar in Computer Science & Engineering(CSE)💻 -(2018-2022) 
   </em><br><br>
   
   
