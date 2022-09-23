@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
-<img align="right" width="500" height="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZupZsIhXxhaFMXvO1NFgntRg7jjzdmdz9zA&usqp=CAU">
+<img align="right" width="500" height="500" src="https://github.com/prateeksmith99/prateeksmith99.github.io/blob/main/images/attachment_107446690.jpg?raw=true">
 
 <h3 align="center">🔥 Machine Learning | Deep Learning | Computer Vision and NLP Specialist 🔥 Flutter Developer <br>🔥 Data Scientist 🔥 Lead DevOps Developer</h3>
 
