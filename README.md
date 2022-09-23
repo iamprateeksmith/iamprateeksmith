@@ -7,6 +7,8 @@
 </p>
 
 <br>
+<p align="center">
   <em> 🎓 B.Tech Graduated from SIT, Bhubaneswar as CSE -(2018-2022) </em><br>
   <em>💻 IT Experience in Cloud Data Engineer | AWS,Azure,GCP | Fullstack Development (Flutter,React,NodeJS,ExpressJS & MongoDB)</em><br><br>
  https://prateeksmith99.github.io/
+</p>
