@@ -1,10 +1,3 @@
-<head>
-<style>
-body {
-  background-image: url('img_girl.jpg');
-}
-</style>
- </head>
 <h1 align="center"\> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Prateek Smith Patra </h1>
  <p align="center">🔥Cloud Data Engineer @Cognizant</p> 
 
